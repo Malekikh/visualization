@@ -8,23 +8,23 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
-
+excel and python
     > Who is your intended audience? 
-    
+ general audience   
     > What information or message are you trying to convey with your visualization? 
-    
+in ttc subway delay data collected from 2025, the correlation of delay (in minutes) vs. station name. Top 20 most delayed stations. 
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
-    
+aesthetic. 
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    
+create a filtered data  
     > How did you ensure that your data visualization is accessible?  
-    
+using libraries     
     > Who are the individuals and communities who might be impacted by your visualization?  
-    
+those who uses subway    
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    
+using personal judgment    
     > What ‘underwater labour’ contributed to your final data visualization product?
-
+-
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
  
